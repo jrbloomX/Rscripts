@@ -1,4 +1,4 @@
-R Scripts for James Bloom of Oregon Dept. of Environmental Qualtiy
+R Scripts for James Bloom of Oregon Dept. of Environmental Quality
 ========
 
 R scripts
